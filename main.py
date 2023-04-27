@@ -5,8 +5,8 @@ import time
 
 MY_LAT = 54.411265
 MY_LONG = 18.579543
-MY_EMAIL = "python32day@outlook.com"
-MY_PASSWORD = "vssbdzaupflprrxa"
+MY_EMAIL = "example@outlook.com"
+MY_PASSWORD = "******"
 
 
 def is_iss_overhead():
